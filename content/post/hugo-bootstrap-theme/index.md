@@ -16,16 +16,16 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- 🛡️ Instant Alert Bracelet
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+  Direct emergency notifications with precise location sharing for quick assistance.
 
-- ⚡ Fast by default
+- ⚡ Kids' Health Monitor
 
-  Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.
+  Easy tracking of vital signs and symptoms for proactive pediatric care.
 
-- 📈 SEO-ready
+- 📈 Daily Stress Manager
 
-  Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.
-
+  Simple mood logging with actionable steps to reduce anxiety and stress.
+  
 Check the [GitHub repository](https://github.com/filipecarneiro/hugo-bootstrap-theme) for the release notes.
