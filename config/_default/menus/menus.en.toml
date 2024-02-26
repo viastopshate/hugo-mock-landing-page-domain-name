@@ -10,8 +10,8 @@ weight = 20
 title = "Made with ❤️ by the Hugo Bootstrap Theme team"
 
 [[main]]
-identifier = "docs"
-name = "Docs"
+identifier = "product"
+name = "Product"
 url = "page"
 weight = 50
 
