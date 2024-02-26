@@ -1,7 +1,7 @@
 baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
 title = "VitalBand"
 author = "Filipe Carneiro"
-copyright = "j <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "Designed by Via Liu"
 
 timeZone = 'Europe/London'
 
