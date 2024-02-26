@@ -6,7 +6,7 @@
 # https://schema.org/Thing
 # https://schema.org/Article
 description = "Instant health monitoring and personalized care at your wrist."
-images = ['images/logo.svg','images/site-feature-image.png']
+images = ['images/band.png']
 mainMenuLogo = "images/logo.svg"
 
 # For favicons
