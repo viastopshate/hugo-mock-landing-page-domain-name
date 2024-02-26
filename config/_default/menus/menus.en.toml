@@ -10,24 +10,6 @@ weight = 20
 title = "Made with ❤️ by the Hugo Bootstrap Theme team"
 
 [[main]]
-name = "All"
-url = "post"
-weight = 100
-parent = "blog"
-
-[[main]]
-name = "Hugo"
-url = "tags/hugo"
-weight = 20
-parent = "blog"
-
-[[main]]
-name = "Bootstrap"
-url = "tags/bootstrap"
-weight = 30
-parent = "blog"
-
-[[main]]
 identifier = "docs"
 name = "Docs"
 url = "page"
