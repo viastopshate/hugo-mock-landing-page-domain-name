@@ -7,7 +7,7 @@
 # https://schema.org/Article
 description = "Instant health monitoring and personalized care at your wrist."
 images = ['images/band.png']
-mainMenuLogo = "images/band.png"
+mainMenuLogo = "images/bandlogo.png"
 
 # For favicons
 ## Chrome Browser
