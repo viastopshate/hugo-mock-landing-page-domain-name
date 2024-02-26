@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://viastopshate.github.io/hugo-mock-landing-page/'
 title = "VitalBand"
-author = "Filipe Carneiro"
-copyright = "Designed by Via Liu"
+author = "Via Liu"
+copyright = "Via Liu"
 
 timeZone = 'Europe/London'
 
