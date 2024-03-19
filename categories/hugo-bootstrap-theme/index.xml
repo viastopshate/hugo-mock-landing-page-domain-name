@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Bootstrap Theme on VitalBand</title>
+    <link>https://viastopshate.github.io/hugo-mock-landing-page/categories/hugo-bootstrap-theme/</link>
+    <description>Recent content in Hugo Bootstrap Theme on VitalBand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Via Liu</copyright>
+    <lastBuildDate>Mon, 18 Mar 2024 19:36:19 -0400</lastBuildDate>
+    <atom:link href="https://viastopshate.github.io/hugo-mock-landing-page/categories/hugo-bootstrap-theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Bootstrap Theme alpha</title>
+      <link>https://viastopshate.github.io/hugo-mock-landing-page/post/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      <guid>https://viastopshate.github.io/hugo-mock-landing-page/post/hugo-bootstrap-theme/</guid>
+      <description>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&#xA;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&#xA;🛡️ Instant Alert Bracelet&#xA;Direct emergency notifications with precise location sharing for quick assistance.&#xA;⚡ Kids&amp;rsquo; Health Monitor&#xA;Easy tracking of vital signs and symptoms for proactive pediatric care.&#xA;📈 Daily Stress Manager&#xA;Simple mood logging with actionable steps to reduce anxiety and stress.&#xA;Check the GitHub repository for the release notes.</description>
+    </item>
+  </channel>
+</rss>
