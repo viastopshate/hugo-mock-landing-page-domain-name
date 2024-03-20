@@ -5,9 +5,8 @@ weight = 10
 
 [[main]]
 name = "About"
-url = ""
+url = "/about.en/"
 weight = 20
-title = "Made with ❤️ by the VitalBand team"
 
 [[main]]
 identifier = "Contact"
