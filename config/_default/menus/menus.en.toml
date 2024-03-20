@@ -10,8 +10,9 @@ weight = 20
 title = "Made with ❤️ by the VitalBand team"
 
 [[main]]
-identifier = "product"
-name = "Product"
+identifier = "Contact"
+name = "Contact"
+url = "/contact/"
 weight = 50
 
 [[social]]
