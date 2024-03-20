@@ -4,8 +4,9 @@ url = ""
 weight = 10
 
 [[main]]
+identifier = "About"
 name = "About"
-url = "/about.en/"
+url = "/about/"
 weight = 20
 
 [[main]]
