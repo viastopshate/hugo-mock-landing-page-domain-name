@@ -7,7 +7,7 @@ weight = 10
 identifier = "About"
 name = "About"
 url = "/about/"
-weight = 20
+weight = 50
 
 [[main]]
 identifier = "Contact"
